@@ -2,7 +2,7 @@
 name = "nhldeez"
 version = "0.1.0"
 description = ""
-authors = ["Bryce Claughton <bclaughton@bank-banque-canada.ca>"]
+authors = ["Bryce Claughton <bclaught@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
