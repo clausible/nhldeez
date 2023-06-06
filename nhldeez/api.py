@@ -1,8 +1,5 @@
 import requests as r
-import json
 from urllib.parse import urljoin
-from dataclasses import dataclass
-from typing import Literal
 
 BASEURL = "https://statsapi.web.nhl.com/"
 
